@@ -3,6 +3,7 @@
 
 A::A(void)
 {
+  return;
 }
 
 
