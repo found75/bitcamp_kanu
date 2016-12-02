@@ -27,9 +27,12 @@
 	13. [이전],[다음] 페이지 메세지 함수 성공시에만 호출하게 수정.
 */
 
+/*
+	깃허브 테스트 - 두번째 프로그램 수정 입니다.
+*/
+
 //#define _ASSERT_
 #define _PAGE_ITEM_COUNT_ 10 //1 Page 에 표시할 최대 아이템 겟수.
-
 enum _eMenu
 {
 	eNone= 0,
